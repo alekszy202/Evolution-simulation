@@ -1,0 +1,13 @@
+﻿  Algorithm.cpp
+c:\users\mateusz\source\repos\darwin\projekt darwin\projekt darwin\algorithm.cpp(72): warning C4267: "inicjowanie": konwersja z "size_t" do "int", możliwa utrata danych
+c:\users\mateusz\source\repos\darwin\projekt darwin\projekt darwin\algorithm.cpp(88): warning C4267: "inicjowanie": konwersja z "size_t" do "int", możliwa utrata danych
+c:\users\mateusz\source\repos\darwin\projekt darwin\projekt darwin\algorithm.cpp(89): warning C4267: "inicjowanie": konwersja z "size_t" do "int", możliwa utrata danych
+  ArgumentsManagement.cpp
+  FileManagement.cpp
+  Main.cpp
+c:\users\mateusz\source\repos\darwin\projekt darwin\projekt darwin\main.cpp(24): warning C4244: "inicjowanie": konwersja z "double" do "float", możliwa utrata danych
+c:\users\mateusz\source\repos\darwin\projekt darwin\projekt darwin\main.cpp(26): warning C4244: "inicjowanie": konwersja z "double" do "float", możliwa utrata danych
+c:\users\mateusz\source\repos\darwin\projekt darwin\projekt darwin\main.cpp(39): warning C4244: "argument": konwersja z "time_t" do "unsigned int", możliwa utrata danych
+  Generowanie kodu...
+c:\users\mateusz\source\repos\darwin\projekt darwin\projekt darwin\filemanagement.cpp(56): warning C4715: "errorHandle”: niewszystkie ścieżki kodu zwracają wartość
+  Projekt Darwin.vcxproj -> C:\Users\Mateusz\source\repos\Darwin\Projekt Darwin\x64\Debug\Projekt Darwin.exe

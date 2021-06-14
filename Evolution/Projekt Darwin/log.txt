@@ -1,0 +1,24 @@
+Generation number: 1
+Input number of indiviuals: 7
+Alive: 0
+Dead: 6
+Cloned: 1
+
+Generation number: 2
+Input number of indiviuals: 8
+Alive: 0
+Dead: 5
+Cloned: 3
+
+Generation number: 3
+Input number of indiviuals: 12
+Alive: 0
+Dead: 5
+Cloned: 7
+
+Generation number: 4
+Input number of indiviuals: 20
+Alive: 0
+Dead: 4
+Cloned: 16
+
